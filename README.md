@@ -1,3 +1,5 @@
+![ci](https://github.com/QMSS-G5072-2026/weather_talwasa_sarwan/actions/workflows/ci.yml/badge.svg)
+
 # weather_ts3740
 
 super cool package for weather stuff
