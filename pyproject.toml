@@ -1,6 +1,6 @@
 [project]
 name = "weather_ts3740"
-version = "0.1.0"
+version = "0.1.1"
 description = "super cool package for weather stuff"
 readme = "README.md"
 authors = [{ name = "talwasa sarwan", email = "ts3740@columbia.edu" }]
